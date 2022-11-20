@@ -58,7 +58,7 @@ def transform_data():
 def load_mongo():
     # load the json file into mongodb
     # create a client object
-    client = MongoClient('mongodb+srv://Marce82:Lorenzo_22@cluster0.ragcpnf.mongodb.net/?retryWrites=true&w=majority')
+    client = MongoClient('mongodb+srv://USER:PASSWORD@cluster0.ragcpnf.mongodb.net/?retryWrites=true&w=majority')
     # get a database named "stockdb"
     db1 = client.stockdb
     # get a collection named "yahoo_data_test_json"
