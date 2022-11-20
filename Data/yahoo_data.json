@@ -1,0 +1,47 @@
+[
+    {
+        "Company_name":"Microsoft Corporation",
+        "Company_ticker":"MSFT",
+        "Closed_price":241.68,
+        "Company_info":"Microsoft Corporation develops, licenses, and supports software, services, devices, and solutions worldwide. The company operates in three segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. The Productivity and Business Processes segment offers Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, Microsoft Viva, and Skype for Business; Skype, Outlook.com, OneDrive, and LinkedIn; and Dynamics 365, a set of cloud-based and on-premises business solutions for organizations and enterprise divisions. The Intelligent Cloud segment licenses SQL, Windows Servers, Visual Studio, System Center, and related Client Access Licenses; GitHub that provides a collaboration platform and code hosting service for developers; Nuance provides healthcare and enterprise AI solutions; and Azure, a cloud platform. It also offers enterprise support, Microsoft consulting, and nuance professional services to assist customers in developing, deploying, and managing Microsoft server and desktop solutions; and training and certification on Microsoft products. The More Personal Computing segment provides Windows original equipment manufacturer (OEM) licensing and other non-volume licensing of the Windows operating system; Windows Commercial, such as volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings; patent licensing; and Windows Internet of Things. It also offers Surface, PC accessories, PCs, tablets, gaming and entertainment consoles, and other devices; Gaming, including Xbox hardware, and Xbox content and services; video games and third-party video game royalties; and Search, including Bing and Microsoft advertising. The company sells its products through OEMs, distributors, and resellers; and directly through digital marketplaces, online stores, and retail stores. Microsoft Corporation was founded in 1975 and is headquartered in Redmond, Washington.",
+        "Company_PE":25.97,
+        "Company_cash_flow":87693000704,
+        "Company_dividend":2.72
+    },
+    {
+        "Company_name":"Zions Bancorporation, National Association",
+        "Company_ticker":"ZION",
+        "Closed_price":50.76,
+        "Company_info":"Zions Bancorporation, National Association provides various banking and related services primarily in the states of Arizona, California, Colorado, Idaho, Nevada, New Mexico, Oregon, Texas, Utah, Washington, and Wyoming. The company offers corporate banking services; commercial banking, including a focus on small- and medium-sized businesses; commercial real estate banking services; municipal and public finance services; retail banking, including residential mortgages; trust services; wealth management and private client banking services; and capital markets products and services. As of December 31, 2020, it operated 422 branches, which included 273 owned and 149 leased. The company was formerly known as ZB, National Association and changed its name to Zions Bancorporation, National Association in September 2018. Zions Bancorporation, National Association was founded in 1873 and is headquartered in Salt Lake City, Utah.",
+        "Company_PE":9.53,
+        "Company_cash_flow":1142000000,
+        "Company_dividend":1.64
+    },
+    {
+        "Company_name":"International Business Machines Corporation",
+        "Company_ticker":"IBM",
+        "Closed_price":146.09,
+        "Company_info":"International Business Machines Corporation provides integrated solutions and services worldwide. The company operates through four business segments: Software, Consulting, Infrastructure, and Financing. The Software segment offers hybrid cloud platform and software solutions, such as Red Hat, an enterprise open-source solutions; software for business automation, AIOps and management, integration, and application servers; data and artificial intelligence solutions; and security software and services for threat, data, and identity. This segment also provides transaction processing software that supports clients' mission-critical and on-premise workloads in banking, airlines, and retail industries. The Consulting segment offers business transformation services, including strategy, business process design and operations, data and analytics, and system integration services; technology consulting services; and application and cloud platform services. The Infrastructure segment provides on-premises and cloud-based server and storage solutions for its clients' mission-critical and regulated workloads; and support services and solutions for hybrid cloud infrastructure, as well as remanufacturing and remarketing services for used equipment. The Financing segment offers lease, installment payment, loan financing, and short-term working capital financing services. The company was formerly known as Computing-Tabulating-Recording Co. International Business Machines Corporation was incorporated in 1911 and is headquartered in Armonk, New York.",
+        "Company_PE":24.25,
+        "Company_cash_flow":9013999616,
+        "Company_dividend":6.6
+    },
+    {
+        "Company_name":"Johnson & Johnson",
+        "Company_ticker":"JNJ",
+        "Closed_price":174.86,
+        "Company_info":"Johnson & Johnson, together with its subsidiaries, researches and develops, manufactures, and sells various products in the healthcare field worldwide. The company's Consumer Health segment offers baby care products under the JOHNSON'S and AVEENO Baby brands; oral care products under the LISTERINE brand; skin health\/beauty products under the AVEENO, CLEAN & CLEAR, DR. CI:LABO, NEUTROGENA, and OGX brands; TYLENOL acetaminophen products; SUDAFED cold, flu, and allergy products; BENADRYL and ZYRTEC allergy products; MOTRIN IB ibuprofen products; NICORETTE smoking cessation products; and PEPCID acid reflux products. It also offers STAYFREE and CAREFREE sanitary pads; o.b. tampons; adhesive bandages under the BAND-AID brand; and first aid products under the NEOSPORIN brand. It serves general public, retail outlets, and distributors. The company's Pharmaceutical segment offers products for rheumatoid arthritis, psoriatic arthritis, inflammatory bowel disease, and psoriasis; HIV\/AIDS and COVID-19 infectious diseases; mood disorders, neurodegenerative disorders, and schizophrenia; prostate cancer, hematologic malignancies, lung cancer, and bladder cancer; thrombosis, diabetes and macular degeneration; and pulmonary arterial hypertension. This segment serves retailers, wholesalers, distributors, hospitals, and healthcare professionals directly for prescription use. Its MedTech segment provides electrophysiology products to treat cardiovascular diseases; neurovascular care products to treat hemorrhagic and ischemic stroke; orthopaedics products in support of hips, knees, trauma, spine, sports, and other; advanced and general surgery solutions that focus on breast aesthetics, ear, nose, and throat procedures; and disposable contact lenses and ophthalmic products related to cataract and laser refractive surgery under the ACUVUE brand. This segment serves wholesalers, hospitals, and retailers. The company was founded in 1886 and is based in New Brunswick, New Jersey.",
+        "Company_PE":24.54,
+        "Company_cash_flow":21575999488,
+        "Company_dividend":4.52
+    },
+    {
+        "Company_name":"McDonald's Corporation",
+        "Company_ticker":"MCD",
+        "Closed_price":273.36,
+        "Company_info":"McDonald's Corporation operates and franchises McDonald's restaurants in the United States and internationally. Its restaurants offer hamburgers and cheeseburgers, chicken sandwiches and nuggets, wraps, fries, salads, oatmeal, shakes, desserts, sundaes, soft serve cones, bakery items, soft drinks, coffee, and beverages and other beverages, as well as breakfast menu, including biscuit and bagel sandwiches, breakfast burritos, hotcakes, and other sandwiches. As of December 31, 2021, the company operated 40,031 restaurants. McDonald's Corporation was founded in 1940 and is headquartered in Chicago, Illinois.",
+        "Company_PE":34.47,
+        "Company_cash_flow":4133400064,
+        "Company_dividend":6.08
+    }
+]

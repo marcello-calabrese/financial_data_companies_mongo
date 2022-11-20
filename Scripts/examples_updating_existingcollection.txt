@@ -1,0 +1,17 @@
+def update_and_add_with_json(self, data, key):
+
+        """ The function update all documents in collection databases using JSON file """
+
+        with open(data) as file:
+            file_data = json.load(file)
+
+        key = key
+
+        try:
+            startTime = time.time()
+
+            for row in file_data:
+                self.collection.update_one({key: row.get(key)},  {'$set': row}, upsert=True)
+            endTime = time.time()
+            totalTime = endTime - startTime
+            totalTime = str('{:>.3f}'.format(totalTime))

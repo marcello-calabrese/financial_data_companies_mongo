@@ -1,0 +1,34 @@
+import yfinance as yf
+import pandas as pd
+import json
+
+
+ticker_list = ['AMZN', 'AAPL', 'MSFT', 'GOOG', 'FB', 'NFLX', 'BABA', 'BABA', 'BRK.B', 'JNJ', 'V', 'PG', 'JPM', 'BAC', 'XOM', 'WMT', 'VZ', 'INTC', 'HD', 'T', 'CVX',
+
+def get_pe_ratio(ticker):
+    ticker = yf.Ticker(ticker)
+    pe_ratio = ticker.info['trailingPE']
+    return pe_ratio
+
+
+def get_pe_list(ticker_list):
+    pe_list = []
+    for ticker in ticker_list:
+        pe_ratio = get_pe_ratio(ticker)
+        pe_list.append(pe_ratio)
+    return pe_list
+
+
+def create_df(ticker_list, pe_list):
+    df = pd.DataFrame({'Ticker': ticker_list, 'P/E Ratio': pe_list})
+    return df
+
+
+def convert_df_json(df):
+    df_json = df.to_json(orient='records')
+    return df_json
+
+###############################################################################################################################
+
+
+
