@@ -175,19 +175,18 @@ Right here we go to the second fun part of the project, now I will show you how 
 
 To create a dashboard in MongoDB Charts, we need to create a new dashboard. To do that, we need to click on the ''Create Dashboard'' button. See below the short video demo.
 
-<iframe width="676" height="389" src="https://www.youtube.com/embed/Mja2apf0N64" title="MongoDB Charts creation phase 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+[Watch the video](https://www.youtube.com/embed/Mja2apf0N64)
 
 
 After we enter browse collections in our cluster, we select our stockdb database and the stock_data collection. After we select Charts on the top menu, we click ''Add Dashboard'' and add a Title to the dashboard. We click Add Chart, select our cluster (in my case is Cluster0), select the database (stockdb)and the collection (stock_data). We are in the main panel now where on the left the data source is sampled and appears as a drag and drop tool to start building the charts. The dashboard will be structured  with 2 rows and 3 charts per row. The visualization consists of 2 tables with company name and description and company name and ticker symbol, the rest of the charts are simple bar chart to show the key metrics of the companies in my portfolio. See below the second part of the video demo to draw the charts.
 
-<iframe width="676" height="389" src="https://www.youtube.com/embed/g96FcqN6EJc" title="Dashboard creation on MongoDB Charts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[Watch the video](https://www.youtube.com/embed/g96FcqN6EJc)
 
 ## Export the Dashboard
 
 After we created the dashboard, we can use the iframe tool to export and embed the dashboard on our webpage. See the video demo below.
 
-<iframe width="676" height="389" src="https://www.youtube.com/embed/tqJ8JJevki8" title="Dahsboard embedding" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch the video](https://www.youtube.com/embed/tqJ8JJevki8)
 
 ## Basic html page to embed the dashboard
 
@@ -227,7 +226,7 @@ The last step is to create a basic html page to embed the dashboard. You can fin
 ```
 The page short video demo is below. As you can see is very interactive. Don't forget to change the iframe code with the code generated from MongoDB Charts, I had to manually add the height pixels in the iframe to 700px to make sure the dahsboard is expanded in the full html page:
 
-<iframe width="676" height="389" src="https://www.youtube.com/embed/eKe5Dc2AB2k" title="dashboard webpage demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch the video](https://www.youtube.com/embed/eKe5Dc2AB2k)
 
 ## Conclusion
 
